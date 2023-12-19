@@ -46,4 +46,4 @@ app.*.map.json
 /test
 /windows
 /macos
-
+/linux
